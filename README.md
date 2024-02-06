@@ -1,5 +1,5 @@
 # Trakt-Auth-Helper
-###Trakt OAuth Authentication
+### Trakt OAuth Authentication
 Manual version of [https://github.com/PierreDurrr/Trakt-Auth-Helper-Docker](https://github.com/PierreDurrr/Trakt-Auth-Helper-Docker)
 
 ## Overview:
