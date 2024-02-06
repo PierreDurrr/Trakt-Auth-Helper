@@ -1,5 +1,5 @@
 # Trakt-Auth-Helper
-### Trakt OAuth Authentication
+Trakt OAuth Authentication
 
 ## Overview:
 This Python script facilitates OAuth authentication with the Trakt.tv platform. It guides users through the authentication process, prompting them to input their Trakt client ID, client secret, and authorization code obtained from Trakt's authorization page. Upon successful authentication, the script retrieves the access token from Trakt.tv, enabling users to interact securely with Trakt's API.
